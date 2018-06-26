@@ -16,9 +16,14 @@ body{
 }
 
 h1{
-	color: white
+	color: white;
 }
 
-span{
-	color: white
+
+
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+	color: black;
 }
